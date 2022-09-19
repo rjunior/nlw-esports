@@ -1,0 +1,7 @@
+{    
+  "prisma.trace.server": "verbose",
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma",
+    "editor.formatOnSave": true
+  },
+}
